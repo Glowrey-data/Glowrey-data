@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Glory Odeh  a data analyst(Glowery-data)
+# Hi there! 👋 
+
+I'm Glory Odeh  a data analyst(Glowery-data)
 
 🎓 **Education**:
 - **B.Sc** in Economics from **Federal University of Agriculture, Abeokuta**
@@ -54,8 +56,7 @@ I have also completed a job simulation with **Accenture North America** focused 
 ---
 
 ## 📈 GitHub Stats
-
-![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowery-data&show_icons=true&theme=radical)
+[Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowery-data&show_icons=true&theme=radical)
 
 ---
 
