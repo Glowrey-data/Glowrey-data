@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Glory Odeh (Glowery-data)
+# Hi there! 👋 I'm Glory Odeh  a data analyst(Glowery-data)
 
 🎓 **Education**:
 - **B.Sc** in Economics from **Federal University of Agriculture, Abeokuta**
