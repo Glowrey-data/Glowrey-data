@@ -60,7 +60,7 @@ I have also completed a job simulation with **Accenture North America** focused 
 ---
 
 ## 🌱 Fun Fact
-When I'm not crunching numbers, I love exploring new places and writting!
+When I'm not crunching numbers, I love exploring networking and writting!
 
 ---
 
